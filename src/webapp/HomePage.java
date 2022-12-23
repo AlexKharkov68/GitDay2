@@ -8,4 +8,7 @@ public class HomePage {
 
     //more things for home page
     //logo made 2
+
+    // finish page
+
 }
